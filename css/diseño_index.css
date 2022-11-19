@@ -1,0 +1,122 @@
+h1 {
+    text-align: center;
+    font-size: 32px;
+}
+
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+#barra{
+    color: white;
+}
+#imagenlogo {
+    width: 60px;
+    height: 60px;
+}
+#nav {
+    text-align: center;
+    font-size: 12px;
+    width: 1350px;
+    height: 70px;
+}
+
+#tabla_psico {
+    text-align: center;
+    font-size: 12px;
+    width: 500px;
+    height: 200px;
+}
+
+#tabla_video {
+    width: 600px;
+    height: 600px;
+}
+
+#formu {
+    background-color: #0BDFF1;
+}
+
+#icon {
+    width: 10px;
+    height: 10px;
+    align-content: center;
+}
+#formutitulo {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#ramatitulo {
+    font-weight: bold;
+    text-decoration: underline;
+    align-content: center;
+    width: 200px;
+    height: 200px;
+}
+
+.company-details{
+    overflow: hidden;
+    padding: 3em 0em;
+    background: #0BDFF1;
+    text-align: center;
+    margin-top: 5em;
+}
+
+#footer #col1,
+#footer #col2,
+#footer #col3,
+#footer #col4{
+	float: left;
+	width: 320px;
+	padding: 0px 40px 0px 40px;
+}
+
+#creadores {
+    font-size: 16px;
+}
+
+#redes {
+    font-size: 16px;
+}
+
+#nomredes {
+    font-weight: bolder;
+}
+
+#footer #icon{
+	display: block;
+	margin-bottom: 1em;
+	font-size: 3em;
+}
+
+#carouselExampleControls {
+    width: 500px;
+    height: 500px;
+}
+
+#titulovideo {
+    font-size: 25px;
+    color: black;
+}
+
+.sect {
+    width: 250px;
+    height: 250px;
+    min-height: 450px;
+  }
+  #sect1 {
+    color: #fff;
+  }
+  #sect1 {
+    position: center;
+    
+  }
+  video {
+    position: center;
+    height: 250px;
+  }

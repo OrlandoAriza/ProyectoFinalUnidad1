@@ -1,0 +1,124 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+#barra{
+    color: white;
+}
+#imagenlogo {
+    width: 60px;
+    height: 60px;
+}
+
+#titupsicolo {
+    font-size: 52px;
+}
+#descri {
+    font-size: 15px;
+}
+#creadores {
+    font-size: 16px;
+}
+
+#redes {
+    font-size: 16px;
+}
+
+#nomredes {
+    font-weight: bolder;
+}
+
+#icon {
+    width: 10px;
+    height: 10px;
+}
+
+#nav {
+    text-align: center;
+    font-size: 12px;
+    width: 1350px;
+    height: 70px;
+}
+
+.company-details{
+    color: white;
+    overflow: hidden;
+    padding: 3em 0em;
+    background: #35CEFF;
+    text-align: center;
+    margin-top: 5em;
+}
+
+#footer #col1,
+#footer #col2,
+#footer #col3,
+#footer #col4{
+	float: left;
+	width: 340px;
+	padding: 0px 40px 0px 40px;
+}
+
+#footer #icon{
+	display: block;
+	margin-bottom: 1em;
+	font-size: 3em;
+}
+
+#tabla_psico {
+    text-align: center;
+    font-size: 12px;
+    width: 500px;
+    height: 500px;
+}
+
+#tabla_video {
+    width: 600px;
+    height: 600px;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+}
+#formu {
+    background-color: #39A7FE;
+    color: white;
+}
+
+#formutitulo {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#ramatitulo {
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+    align-content: center;
+    width: 200px;
+    height: 200px;
+}
+
+#titulovideo {
+    font-size: 25px;
+    color: black;
+}
+
+.sect {
+    width: 250px;
+    height: 250px;
+    min-height: 450px;
+  }
+  #sect1 {
+    color: #fff;
+  }
+  #sect1 {
+    position: center;
+    
+  }
+  video {
+    position: center;
+    height: 250px;
+  }
